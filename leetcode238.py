@@ -8,12 +8,14 @@ nums= [-1,1,0,-3,3]
 test=[]
 ans=[]
 product=1
-#calc product
+
+#calc product of an array here
 def prod(a,product):
     for x in a:
         product=product*x
     return product
 
+# create a ressetting array except self for an iteration
 for x in range(0,len(nums)):
     for y in nums:
         if y!=nums[x]:
