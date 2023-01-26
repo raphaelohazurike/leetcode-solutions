@@ -1,4 +1,5 @@
 '''  
+TIME: 1 HOUR 6 MINS
 128. Longest Consecutive Sequence
 Medium
 
